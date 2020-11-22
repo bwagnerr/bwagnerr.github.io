@@ -1,0 +1,1 @@
+{"pageProps":{"post":{"title":"Hello world","date":"2020-11-20","slug":"hello-world","author":{"name":"Bruno Wagner","picture":"/assets/blog/authors/bruno.jpg"},"content":"<h2>I'm alive</h2>\n<p>A first post to confirm everything is setup correctly</p>\n","ogImage":{"url":"/assets/blog/hello-world/cover.jpg"},"coverImage":"/assets/blog/hello-world/cover.jpg"}},"__N_SSG":true}
