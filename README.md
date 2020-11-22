@@ -1,2 +1,1 @@
-# bwagnerr.github.io
-My personal space
+# My personal space
